@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/mapper895/ProyectoSD.git",
-  "author": "mapper895 <mapper.895.mp@gmail.com>",
+  "author": "mapper895 <jaguado514@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "cli-progress": "^3.11.1",
